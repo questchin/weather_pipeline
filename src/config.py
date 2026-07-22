@@ -1,0 +1,5 @@
+BASE_URL = "https://api.open-meteo.com"
+API_VERSION = "v1"
+FORECAST_ENDPOINT = "forecast"
+LATITUDE = "39.1031"
+LONGITUDE = "-84.5120"
